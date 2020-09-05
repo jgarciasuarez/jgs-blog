@@ -1,1 +1,1 @@
-# jgs-blog
+# Blog's repo
