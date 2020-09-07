@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About me"
-date:   2020-09-04 17:18:56 -0700
+date:   2020-09-03 17:18:56 -0700
 categories: jekyll update
 ---
 CHANGE 2
