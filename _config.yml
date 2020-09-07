@@ -20,8 +20,8 @@
 
 title: JGS's research blog
 email: ajgarcia at caltech youknowtherest
-description: Welcome! This is Joaquin Garcia-Suarez's research blog. You can find here extra comments and throughts on my research papers. >- # this means to ignore newlines until "baseurl:"
-# Welcome! This is [Joaquin Garcia-Suarez's](https://jgarciasuarez.github.io/) research blog.
+description: Welcome! This is Joaquin Garcia-Suarez's research blog. You can find here extra comments and throughts on my research papers. 
+>- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
@@ -29,6 +29,7 @@ baseurl: "/jgs-blog" # the subpath of your site, e.g. /blog
 url: "https://jgarciasuarez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jgarciasuarez
+author: Joaquin
 
 # Build settings
 theme: minima
